@@ -10,3 +10,5 @@ set -o pipefail
 
 
 echo "First script"
+
+echo "1 edit script"
