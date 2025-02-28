@@ -1,4 +1,4 @@
 #Header
 
 
-##Install basic packages on new cachine including git and vscodium 
+##Install basic packages on new machine including git and vscodium 
