@@ -9,4 +9,7 @@ set -o errexit
 ########################################
 
      sudo apt update && sudo apt install codium
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs   https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+
+echo -e "call plug#begin()\nPlug 'preservim/NERDTree'\ncall plug#end()"> ~/.vimrc
 
