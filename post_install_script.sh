@@ -13,3 +13,4 @@ set -o errexit
 
 #echo -e "call plug#begin()\nPlug 'preservim/NERDTree'\ncall plug#end()"> ~/.vimrc
 
+#use vscodium
